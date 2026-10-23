@@ -2,7 +2,7 @@
 
 ![Fishlake National Forest shown at different DEM resolutions](different-dem.png)
 
-## Overview
+## Overview What's in this repository
 This project visualizes the differences between Digital Elevation Models
 (DEMs) of different resolutions in the Fishlake National Forest in Utah.
 The goal was not only to see the differences, but to understand why
